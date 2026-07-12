@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Marca verde Kineo (igual en claro y oscuro) -->
+    <color name="colorPrimary">#1B8A3A</color>
+    <color name="colorPrimaryDark">#116127</color>
+    <color name="colorPrimaryVariant">#22A346</color>
+    <color name="colorAccent">#4CAF50</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+
+    <!-- Secundario -->
+    <color name="colorSecondary">#00BCD4</color>
+    <color name="colorSecondaryVariant">#0097A7</color>
+
+    <!-- Superficies MODO CLARO -->
+    <color name="colorBackground">#F4FBF5</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorSurfaceVariant">#E8F5E9</color>
+    <color name="colorOnSurface">#1A1A1A</color>
+    <color name="colorOnSurfaceVariant">#444444</color>
+
+    <!-- Superficies MODO OSCURO (usadas en values-night/colors.xml) -->
+    <color name="colorBackgroundDark">#111411</color>
+    <color name="colorSurfaceDark">#1E251F</color>
+    <color name="colorSurfaceVariantDark">#263029</color>
+    <color name="colorOnSurfaceDark">#E6F2E8</color>
+    <color name="colorOnSurfaceVariantDark">#A8C5AD</color>
+
+    <!-- Badges -->
+    <color name="colorBadgeLocked">#BDBDBD</color>
+    <color name="colorBadgeLockedDark">#555555</color>
+
+    <!-- Estado / error -->
+    <color name="colorError">#D32F2F</color>
+    <color name="colorErrorDark">#EF9A9A</color>
+
+    <!-- Texto secundario -->
+    <color name="colorTextSecondary">#616161</color>
+    <color name="colorTextSecondaryDark">#A0A0A0</color>
+    <color name="colorDivider">#E0E0E0</color>
+    <color name="colorDividerDark">#2E3A2F</color>
+
+    <!-- Chips de estado de retos -->
+    <color name="colorStatusActive">#1B8A3A</color>
+    <color name="colorStatusPending">#F57C00</color>
+    <color name="colorStatusFinished">#757575</color>
+    <color name="colorStatusFinishedDark">#9E9E9E</color>
+</resources>

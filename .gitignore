@@ -1,0 +1,23 @@
+# --- Backend (Python) ---
+kineo/backend/.venv/
+kineo/backend/.env
+__pycache__/
+*.pyc
+*.pyo
+
+# --- Frontend (Android / Gradle) ---
+kineo/frontend/.gradle/
+kineo/frontend/build/
+kineo/frontend/app/.gradle/
+kineo/frontend/app/build/
+kineo/frontend/local.properties
+kineo/frontend/app/local.properties
+*.iml
+.idea/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# --- OS ---
+.DS_Store
+Thumbs.db

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kineo</string>
+    <string name="nav_home">Inicio</string>
+    <string name="nav_history">Historial</string>
+    <string name="nav_map">Mapa</string>
+    <string name="nav_social">Social</string>
+    <string name="nav_badges">Logros</string>
+    <string name="label_steps">Pasos</string>
+    <string name="label_calories">Calorías</string>
+    <string name="label_distance">Distancia</string>
+    <string name="label_active_minutes">Minutos activos</string>
+    <string name="label_daily_goal">Meta diaria</string>
+    <string name="btn_start_route">Iniciar Ruta</string>
+    <string name="btn_stop_route">Detener Ruta</string>
+    <string name="btn_login">Iniciar Sesión</string>
+    <string name="btn_register">Registrarse</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_display_name">Nombre para mostrar</string>
+    <string name="label_friends">Amigos</string>
+    <string name="label_challenges">Retos</string>
+    <string name="label_leaderboard">Clasificación</string>
+    <string name="notification_channel_name">Seguimiento de Actividad</string>
+    <string name="notification_steps_text">Kineo — %1$d pasos hoy</string>
+    <string name="error_generic">Ha ocurrido un error inesperado</string>
+    <string name="welcome_message">Bienvenido a Kineo</string>
+    <string name="no_account">¿No tienes cuenta? Regístrate</string>
+    <string name="have_account">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="badges_recent_title">Logros Recientes</string>
+    <string name="dist_0_km">Distancia: 0.0 km</string>
+    <string name="time_00_00">Tiempo: 00:00</string>
+    <string name="action_logout">Cerrar sesión</string>
+    <string name="label_requests">Solicitudes</string>
+</resources>

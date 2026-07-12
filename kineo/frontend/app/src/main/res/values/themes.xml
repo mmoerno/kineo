@@ -1,0 +1,39 @@
+<resources>
+    <style name="Theme.Kineo" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Marca -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorSecondaryVariant">@color/colorSecondaryVariant</item>
+        <item name="colorOnSecondary">@color/colorOnPrimary</item>
+        <!-- Superficies — apuntan a @color/ para que night/ los override -->
+        <item name="colorSurface">@color/colorSurface</item>
+        <item name="colorOnSurface">@color/colorOnSurface</item>
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <item name="colorError">@color/colorError</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <item name="elevationOverlayEnabled">true</item>
+        <!-- Texto secundario como atributo del tema -->
+        <item name="android:textColorSecondary">@color/colorTextSecondary</item>
+        <item name="android:textColorHint">@color/colorTextSecondary</item>
+        <!-- Dividers -->
+        <item name="android:listDivider">@color/colorDivider</item>
+    </style>
+
+    <style name="Theme.Kineo.Toolbar" parent="Widget.MaterialComponents.Toolbar.Primary">
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="titleTextColor">@color/colorOnPrimary</item>
+    </style>
+
+    <style name="Theme.Kineo.TextInputLayout"
+        parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="boxStrokeColor">@color/colorPrimary</item>
+        <item name="hintTextColor">@color/colorPrimary</item>
+    </style>
+
+    <style name="Theme.Kineo.Chip" parent="Widget.MaterialComponents.Chip.Choice">
+        <item name="chipBackgroundColor">@color/colorSurfaceVariant</item>
+        <item name="checkedIconVisible">false</item>
+    </style>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Superficies oscuras -->
+    <color name="colorBackground">#111411</color>
+    <color name="colorSurface">#1E251F</color>
+    <color name="colorSurfaceVariant">#263029</color>
+    <color name="colorOnSurface">#E6F2E8</color>
+    <color name="colorOnSurfaceVariant">#A8C5AD</color>
+
+    <!-- Badges bloqueadas más oscuras -->
+    <color name="colorBadgeLocked">#555555</color>
+
+    <!-- Error más suave en oscuro -->
+    <color name="colorError">#EF9A9A</color>
+
+    <!-- Texto secundario más claro -->
+    <color name="colorTextSecondary">#A0A0A0</color>
+    <color name="colorDivider">#2E3A2F</color>
+</resources>
