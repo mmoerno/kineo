@@ -67,4 +67,4 @@ Principales módulos: Home (resumen de pasos), Auth (login/registro), Social (am
 
 ## Autoría
 
-Proyecto desarrollado por [mmoerno](https://github.com/mmoerno).
+Proyecto desarrollado por [mmoerno](https://github.com/mmoerno) y [fraforbra-sys](https://github.com/fraforbra-sys).
